@@ -32,7 +32,9 @@ jika selesai akan muncul dialog pemberitahuan. Klik pada Finish.
 
 
 melakukan konfigurasi git
+
 ![picture1](picture1.png)
+
 pwd dilakukan untuk melihat direkori yang di gunakan saat itu
 
 git config --global user.name berguna untuk mengisi nama user pada git bash di sarankan mengunakan nama yang sama ketika membuat github agar tidak keliru nantinya.
