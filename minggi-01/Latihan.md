@@ -2,8 +2,6 @@
 ---
 ## **instalasi GIT** 
 
-instalasi git dari awal sampai selesai silahkan di simak ....
-
 klik double pada git.exe maka akan muncul tampilan setelah itu tekan next
 ![istal3](instal3.png)
 
